@@ -1,6 +1,7 @@
 # phpunit-facebook-webdriver-example
 
-because php-webdriver-demo:<https://github.com/DavertMik/php-webdriver-demo> is the 2 years ago example and it's not work now, so I write latest example to others who want to learn facebook/php-webdriver.
+Because php-webdriver-demo:<https://github.com/DavertMik/php-webdriver-demo> is the 2 years ago example and it's not work now, 
+so I write latest example to others who want to learn facebook/php-webdriver.
 
 All you need are in this project.
 
